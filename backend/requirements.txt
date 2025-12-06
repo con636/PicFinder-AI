@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+Pillow
+sentence-transformers
+chromadb
+deep-translator
+python-multipart

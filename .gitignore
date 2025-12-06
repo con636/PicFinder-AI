@@ -1,0 +1,18 @@
+# --- 忽略 Python 环境和缓存 ---
+backend/venv/
+backend/__pycache__/
+*.pyc
+*.pyo
+
+# --- 忽略前端依赖和构建产物 ---
+node_modules/
+dist/
+dist-electron/
+release/
+
+# --- 忽略本地数据库 (包含你的隐私照片索引) ---
+backend/db/
+*.chroma
+.DS_Store
+.idea
+.vscode
